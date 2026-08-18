@@ -1,0 +1,6 @@
+{
+  "name": "AI Voiceover Studio",
+  "description": "Unlimited length text-to-speech studio powered by Gemini TTS with smart chunking and seamless audio merging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
